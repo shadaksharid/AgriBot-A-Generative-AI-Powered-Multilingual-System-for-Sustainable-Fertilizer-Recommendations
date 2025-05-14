@@ -78,7 +78,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Shadakshari D - Initial work
+- Shadakshari D
+- Shashank S N
+- Abhin K M
+- Srihari A S
 
 ## 🙏 Acknowledgments
 
