@@ -1,6 +1,6 @@
 # AgriBot - Smart Fertilizer Management System
 
-AgriBot is a modern web application designed to help farmers and agricultural professionals optimize their fertilizer usage through AI-powered recommendations and precise calculations.
+AgriBot is a modern multilungual web application designed to help farmers and agricultural professionals optimize their fertilizer usage through AI-powered recommendations and precise calculations.
 
 ## 🌟 Features
 
